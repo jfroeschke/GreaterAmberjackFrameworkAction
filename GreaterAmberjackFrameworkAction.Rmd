@@ -1,0 +1,19 @@
+---
+title: "Greater Amberjack Framework Action"
+author: "John Froeschke"
+date: "June 20, 2017"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Greater Amberjack Document Status and Timeline
+
+## Role: co-Lead
+
+#Timeline
+* April 2017: Initial draft to Council
+* June 19: Incorporated edits from Ava Lasseter and Jeff Pulver
+* June 20, 2017: Updated draft to include BPA from Jeff Pulver
