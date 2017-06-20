@@ -15,6 +15,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #Timeline
 * April 2017: Initial draft to Council
-* June 19: Incorporated edits from Ava Lasseter and Jeff Pulver
-* Most current draft: Framework Action to Adjust GreaterACLJune202017.docx
+* June 19 2017
+    + Incorporated edits from Ava Lasseter and Jeff Pulver
+
 * June 20, 2017: Updated draft to include BPA from Jeff Pulver
+    + Most current draft: Framework Action to Adjust GreaterACLJune202017.docx
+    
+### Timeline for August 2017 Council meeting  
+* IPT edits due: July 5
