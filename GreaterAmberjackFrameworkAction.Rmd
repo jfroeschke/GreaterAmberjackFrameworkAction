@@ -20,6 +20,15 @@ knitr::opts_chunk$set(echo = TRUE)
 
 * June 20, 2017: Updated draft to include BPA from Jeff Pulver
     + Most current draft: Framework Action to Adjust GreaterACLJune202017.docx
+* June 21, 2017: Updated draft 
+    + Included missing references for Nassau grouper section 
+    + Added Other applicable law section
+    + Added McCarthy 2011 reference
+    + Most current draft: Framework Action to Adjust GreaterACLJune202017.docx
     
-### Timeline for August 2017 Council meeting  
+### Timeline for August 7- 11 2017 Council meeting  
 * IPT edits due: July 5
+* Send compiled edits for review by July 7
+* IPT comments due July 14
+* Author response to IPT comments July 19
+* John will compile author comments, review formatting and upload to BB by July 21
