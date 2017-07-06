@@ -24,7 +24,11 @@ knitr::opts_chunk$set(echo = TRUE)
     + Included missing references for Nassau grouper section 
     + Added Other applicable law section
     + Added McCarthy 2011 reference
+    + Updated references in chapter 10 from KO. 
     + Most current draft: Framework Action to Adjust GreaterACLJune202017.docx
+*June 23, 2017
+    + Added description of fishery and new reference
+    + Will need to fix numbering and change GMFMC 2005 to GMFMC 2005a in text. 
     
 ### Timeline for August 7- 11 2017 Council meeting  
 * IPT edits due: July 5
