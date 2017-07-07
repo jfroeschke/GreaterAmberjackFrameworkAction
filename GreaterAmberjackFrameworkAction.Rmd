@@ -14,23 +14,33 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Role: co-Lead
 
 #Timeline
-* April 2017: Initial draft to Council
-* June 19 2017
-    + Incorporated edits from Ava Lasseter and Jeff Pulver
-
-* June 20, 2017: Updated draft to include BPA from Jeff Pulver
-    + Most current draft: Framework Action to Adjust GreaterACLJune202017.docx
+* Current draft Framework Action to Adjust Greater ACL 070716 IPT.docx
+* July 7: K. Hoak re-worked the formatting, sent to K. O'donnel to distrbute to IPT
+* July 5
+    + Received social section edits (minus EJ section) from CWP. 
+    + Save latest version of decision tool to X drive August 2017 folder.
+    
+* June 23, 2017
+    + Added description of fishery and new reference
+    + Will need to fix numbering and change GMFMC 2005 to GMFMC 2005a in text.
 * June 21, 2017: Updated draft 
     + Included missing references for Nassau grouper section 
     + Added Other applicable law section
     + Added McCarthy 2011 reference
     + Updated references in chapter 10 from KO. 
     + Most current draft: Framework Action to Adjust GreaterACLJune202017.docx
-*June 23, 2017
-    + Added description of fishery and new reference
-    + Will need to fix numbering and change GMFMC 2005 to GMFMC 2005a in text. 
+* June 20, 2017: Updated draft to include BPA from Jeff Pulver
+    + Most current draft: Framework Action to Adjust GreaterACLJune202017.docx
+* June 19 2017
+    + Incorporated edits from Ava Lasseter and Jeff Pulver
+* April 2017: Initial draft to Council
+
+ 
     
 ### Timeline for August 7- 11 2017 Council meeting  
+* Added Econ effects sections from Tony/Assane.
+* Incorporated revised 4.2.4 to revise base on in-season closure projections
+* Incorporated Social effects from Ava 
 * IPT edits due: July 5
 * Send compiled edits for review by July 7
 * IPT comments due July 14
